@@ -1,0 +1,24 @@
+{
+    "error": {
+        "notConnectWallet": "Please connect wallet first",
+        "emptyAccounts": "Empty account",
+        "notInstallMetaMask": "Please install metamask extension",
+        "notSupport": "Not support this network, please switch network",
+        "signatureFaild": "Signature canceled"
+    },
+    "home": {
+        "rescuTitle": "Public RESCUE Starts In: ",
+        "cdDay": "DAYS",
+        "cdHour": "HOURS",
+        "cdMinute": "MINUTES",
+        "cdSecond": "SECONDS",
+        "btnSave": "Save More Dinosaur",
+        "infoFirst": "Provide",
+        "infoSecond": "Red-Card",
+        "infoThird": "Dinosar and",
+        "infoForth": "No-Card",
+        "infoFifth": "Dinosar for free MINT.",
+        "dinRemains": "Dinosaurs Remains:",
+        "btnJoinUs": "FREE"
+    }
+}
